@@ -1,0 +1,5 @@
+[functions.nexa-self-build]
+verify_jwt = true
+
+[functions.nexa-social-syndicate]
+verify_jwt = true
